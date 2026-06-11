@@ -2,7 +2,7 @@
 
 _Effective date: June 11, 2026_
 
-Tool Shed Tales Ops ("the tool") is an internal command-line application operated by Green Growth Digital LLC ("we," "us"), a single-member LLC, solely to manage the YouTube channel we own, [Tool Shed Tales](https://www.youtube.com/@ToolShedTales). The tool has exactly one user: the LLC's sole member, who is also the channel owner.
+Tool Shed Tales Ops ("the tool") is an internal command-line application operated by Green Growth Digital LLC ("we," "us"), a single-member LLC, solely to manage the YouTube channel we own, [Tool Shed Tales](https://www.youtube.com/@tool_shed_tales). The tool has exactly one user: the LLC's sole member, who is also the channel owner.
 
 ## Use of YouTube API Services
 

@@ -1,6 +1,6 @@
 # Tool Shed Tales Ops
 
-Internal command-line tooling used by **Green Growth Digital LLC** (a single-member LLC) to manage its own YouTube channel, [Tool Shed Tales](https://www.youtube.com/@ToolShedTales) — original animated Bible stories and songs for children.
+Internal command-line tooling used by **Green Growth Digital LLC** (a single-member LLC) to manage its own YouTube channel, [Tool Shed Tales](https://www.youtube.com/@tool_shed_tales) — original animated Bible stories and songs for children.
 
 ## What this is
 
